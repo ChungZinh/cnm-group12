@@ -1,4 +1,4 @@
-H2`##NHÓM 12`
+# NHÓM 12
 <br>
 Thành Viên:<br>
 1 Nguyễn Hữu Huy 20102781<br>
