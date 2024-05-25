@@ -20,32 +20,20 @@ This repository hosts the project for CNM Group 12, which is a comprehensive com
 - **Mobile:** Objective-C
 
 ## Project Structure
+
 cnm-group12/
-
 ├── zalo-mobile/
-
 │ ├── src/
-
 │ ├── assets/
-
 │ └── README.md
-
 ├── zalo-server/
-
 │ ├── src/
-
 │ ├── config/
-
 │ └── README.md
-
 ├── zalo-web/
-
 │ ├── src/
-
 │ ├── public/
-
 │ └── README.md
-
 └── README.md
 
 
